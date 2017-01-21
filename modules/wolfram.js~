@@ -1,0 +1,8 @@
+var base = "http://api.wolframalpha.com/v1/simple?appid=";
+base  += "E55H6Y-XXRJK5W79Y";
+
+module.exports = {};
+
+module.exports.wolfram = function (res, query) {
+    
+};
